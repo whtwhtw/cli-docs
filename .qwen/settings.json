@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(opencli *)",
+      "Bash(chmod *)",
+      "Bash(bash *)",
+      "Bash(rm *)",
+      "Bash(cli_anything *)",
+      "Bash(cli-anything *)",
+      "Bash(clianything *)",
+      "Bash(npm *)",
+      "Bash(pip list)",
+      "Bash(find *)",
+      "Bash(grep *)",
+      "Bash(git init)",
+      "Bash(git add *)"
+    ]
+  },
+  "$version": 3
+}
