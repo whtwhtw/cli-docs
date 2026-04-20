@@ -1,7 +1,7 @@
 # OpenCLI 功能大全
 
 > OpenCLI — Make any website your CLI. Zero setup. AI-powered.
-> 
+>
 > 总计：**573 个内置命令**，覆盖 **93 个网站/服务**，另有 **7 个外部 CLI 集成**
 
 ---
@@ -22,6 +22,14 @@
 - [外部 CLI 集成](#外部-cli-集成)
 - [认证类型说明](#认证类型说明)
 - [通用使用方法](#通用使用方法)
+
+---
+
+## 安装
+
+```bash
+npm install -g @jackwener/opencli
+```
 
 ---
 
